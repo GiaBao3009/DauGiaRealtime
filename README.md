@@ -148,7 +148,7 @@
 ### Bắt Buộc
 - **Node.js**: >= 18.x
 - **npm**: >= 9.x
-- **SQL Server**: 2019 hoặc mới hơn
+- **SQL Server**: 2014 hoặc mới hơn
 - **Trình duyệt**: Chrome, Firefox, Edge (phiên bản mới nhất)
 
 ### Khuyến Nghị
